@@ -37,31 +37,4 @@ Once the app is installed and the necessary permissions are granted, the app wil
 ## Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-## Steps to contribute:
-
-1. Fork the repository.
-2. Clone your fork:
-```bash
-git clone https://github.com/your-username/SMS-Ringtone-Alert.git
-
-4. Create a new branch for your feature or fix:
-git checkout -b feature-name
-
-5. Make your changes and commit them:
-git commit -m "Description of the changes"
-
-6. Push the changes to your fork:
-   git push origin feature-name
-
-7. Submit a pull request to the original repository.
-
-##License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Notes:
-- Replace `your-username` in the URL with your actual GitHub username.
-- You can update the repository URL and other sections according to your needs. 
-- If you have a `LICENSE` file, you can provide the relevant license details.
-
-This `README.md` provides clear instructions for setting up the app, a brief description of its features, and guidelines for contributing. You can customize it further based on your specific project details.
 
