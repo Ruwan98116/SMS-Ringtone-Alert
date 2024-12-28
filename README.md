@@ -41,18 +41,19 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 
 1. Fork the repository.
 2. Clone your fork:
+```bash
 git clone https://github.com/your-username/SMS-Ringtone-Alert.git
 
-3. Create a new branch for your feature or fix:
+4. Create a new branch for your feature or fix:
 git checkout -b feature-name
 
-4. Make your changes and commit them:
+5. Make your changes and commit them:
 git commit -m "Description of the changes"
 
-5. Push the changes to your fork:
+6. Push the changes to your fork:
    git push origin feature-name
 
-6. Submit a pull request to the original repository.
+7. Submit a pull request to the original repository.
 
 ##License
 This project is licensed under the MIT License - see the LICENSE file for details.
