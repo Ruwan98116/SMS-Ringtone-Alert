@@ -37,4 +37,7 @@ Once the app is installed and the necessary permissions are granted, the app wil
 ## Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
+if you need initial check the app it in the
+https://github.com/Ruwan98116/SMS-Ringtone-Alert/blob/main/release/app-release.apk
+
 
